@@ -1,108 +1,54 @@
+# Hi, I’m Valentín Fernández Carlomagno
 
-# Hi, I’m @FdezCarlomagno 👋  
+I’m a **Full-Stack Web and Android Developer** passionate about building scalable, maintainable, and user-friendly applications. I specialize in both **frontend and backend development**, as well as **mobile development with Kotlin**, focusing on clean architecture, seamless user experiences, and performance optimization.
 
-Welcome to my GitHub profile! I'm a **passionate full-stack developer** dedicated to crafting efficient, user-friendly web applications and services. I thrive in both **frontend** and **backend** development and continuously strive to enhance my skills in the ever-evolving world of technology.  
+## About Me
 
-## 👀 About Me  
+I create end-to-end applications that combine robust backend services with responsive and engaging frontend interfaces. I have a strong foundation in **modern JavaScript frameworks**, **Java**, **Kotlin**, and **Android development**, as well as expertise in **RESTful API integration**, database design, and UX/UI principles.
 
-I specialize in building **scalable, maintainable, and engaging web applications** that prioritize **clean architecture** and **seamless user experiences**. With a strong foundation in **modern JavaScript frameworks** and backend technologies, I excel at turning ideas into fully functional and visually appealing solutions.  
+## Technical Skills
 
-### 🏆 My Expertise  
+**Languages:** JavaScript / TypeScript, Java, Kotlin, SQL, HTML, CSS
+**Frameworks & Tools:** React.js, Node.js, Express.js, Spring Boot, Jetpack Compose, Tailwind CSS
+**Databases:** MySQL, PostgreSQL, MongoDB
+**Development Practices:** MVVM, Repository Pattern, Hilt, Agile methodologies (Scrum, Kanban), UML
+**UI/UX Design:** Figma, responsive layouts, dark/light mode
+**Mobile Development:** Android app development, state management, adaptive layouts
 
-- **Frontend Development**: Crafting dynamic and responsive user interfaces using **React.js**, **JavaScript**, **HTML**, and **CSS**, with a focus on **usability** and **UX/UI design principles**.  
-- **Backend Development**: Developing powerful and scalable server-side applications using **Node.js**, **Express.js**, **PHP**, and **Java**, ensuring efficient data handling and API performance.  
-- **Database Management**: Designing and maintaining relational databases such as **MySQL** and **PostgreSQL**, along with NoSQL solutions like **MongoDB**.  
-- **Web Services**: Building and integrating **RESTful APIs** to enable seamless data exchange between systems.  
+## Professional Experience
 
-My **strongest programming language** is **JavaScript**, and I’m highly proficient with tools like **React.js**, **Node.js**, and modern JavaScript frameworks.  
+**Freelance Web Developer – Guillermina Bugna / viajesygestionesgb | 2024–Present**
+Web design, content management, and SEO optimization for travel services.
 
----
+**Video Editor – Zumba MEU | 2024–Present**
+Editing and producing promotional videos for social media engagement.
 
-## 🌱 What I’m Currently Learning  
+**Founder – Carlomagno Web Services | 2025–Present**
+Developing full-stack web and mobile solutions, UX/UI design, and brand digital strategy.
 
-I'm always expanding my skill set and keeping up with cutting-edge technologies. Here’s what I’m currently diving into:  
-- **Advanced React.js**: State management with tools like Redux, building custom hooks, and improving application performance.  
-- **Node.js and Backend APIs**: Enhancing my expertise in building secure and scalable APIs with Node.js and Express.js.  
-- **System Architecture**: Exploring best practices for designing scalable, maintainable, and efficient full-stack applications.  
-- **DevOps and Cloud Computing**: Learning deployment strategies, containerization (Docker), and cloud platforms to streamline CI/CD pipelines.  
+## Selected Projects
 
----
+**Android Video Game Catalog App | 2025**
+A mobile application developed in **Kotlin** as part of a mobile development seminar, applying **MVVM and Repository Pattern**. Users can explore, search, filter, and sort a catalog of video games from the **RAWG API**. Features include infinite scroll, persistent filters via SharedPreferences, adaptive UI for portrait and landscape, dark/light mode support, and detailed game information. This project demonstrates my ability to **build functional, maintainable, and user-focused Android applications**.
 
-## 💞️ What I'm Looking to Collaborate On  
+[GitHub](https://github.com/FdezCarlomagno/seminario-android-2025)
 
-I’m open to collaborating on exciting projects, especially those that involve:  
-- **Full-stack development**: Building end-to-end web applications using React.js, Node.js, and modern backend technologies.  
-- **API development and integration**: Designing efficient RESTful APIs to connect systems and services.  
-- **Frontend interfaces**: Crafting stunning and interactive user experiences with React.js and modern CSS frameworks.  
-- **Data-driven applications**: Managing relational and NoSQL databases to build scalable and reliable systems.  
+**Full-Stack Web Projects**
 
----
+* **E-commerce Website for Musical Instruments**: Product filtering, detailed pages, and dynamic shopping experience using PHP and MySQL.
+* **Landing Page for Artist Analia Carlomagno**: React.js landing page with clean design and user-focused interface.
+* **Country Info App**: React-based web application providing interactive country data, including population, borders, and flags.
+* **E-Commerce Backend**: Node.js + Express.js backend with user authentication, role-based access, product and cart management, and MySQL integration.
+* **YendoTandil Travel Landing Page**: React.js + Tailwind CSS landing page with responsive design, animations, and performance optimization.
 
-## 🚀 Projects I’ve Worked On  
+## Current Learning Focus
 
-Here are some of the full-stack projects I’ve built or am actively working on:  
+* **Advanced React.js**: Custom hooks, state management, performance optimization.
+* **Node.js and Backend APIs**: Secure, scalable API development.
+* **Android Development**: Expanding mobile apps with Kotlin, Jetpack Compose, and modern architecture patterns.
+* **System Architecture & DevOps**: Best practices for scalable full-stack applications, CI/CD pipelines, Docker, and cloud deployment.
 
-- **E-commerce Website for Musical Instruments**:  
-  A full-stack application built with **PHP** and **MySQL**, featuring product filtering, detailed product pages, and a dynamic shopping experience.  
+## Contact
 
-- **Landing Page for the Artist Analia Carlomagno**:  
-  A beautifully crafted landing page using **React.js**, focusing on clean design and a seamless user interface.
-
-- **Country info App**:
-  A **React-based** web application that provides an interactive interface for users to explore detailed information about countries, including their borders, population trends, flags,     and more.
-- **E-Commerce Backend**:
-
-  This project is a comprehensive backend implementation for an e-commerce platform. It mimics the functionality of a real-world e-commerce system, encompassing the following features:
-
-    - **User  Registration and Authentication**: Secure user sign-up and login processes.
-    - **Role-Based Access Control**: Differentiation between Admin and Regular User privileges.
-    - **Product Management**: Admin capabilities to manage product listings (view, add, update, delete).
-    - **Cart Management**: User functionalities to manage shopping cart items (add, modify, remove).
-    - **Entity Relationships**: Establishing connections between users, products, and carts.
-
-  The backend is developed using **Node.js**, **Express.js**, and **MySQL** for data management. Also the tools used for testing are **supertest** and **jest**.
-- **YendoTandil 🌄✈️**
-
-  Landing page for the Yendo travel agency, created with **React.js** and **Tailwind CSS**. Provides an attractive and functional experience with:
-
-  - **Informative sections** about destinations and services.  
-  - **Smooth animations** and **responsive** design.  
-  - **Performance optimization** with lazy loading.  
-
-  Minimalist and immersive design for exploring upcoming destinations.
----
-
-## 📫 How to Reach Me  
-
-I’d love to connect and discuss your projects or ideas! Feel free to reach out:  
-
-- **Email**: [valentinfcarlomagno@gmail.com](mailto:valentinfcarlomagno@gmail.com)  
-- **GitHub**: [@FdezCarlomagno](https://github.com/FdezCarlomagno)  
-
----
-
-## 🔧 Technologies & Tools  
-
-Here’s a snapshot of the technologies I work with:  
-
-### Frontend:  
-- **React.js**, **JavaScript (ES6+)**, **HTML5**, **CSS3**, **Bootstrap**, **Tailwind CSS**  
-
-### Backend:  
-- **Node.js**, **Express.js**, **PHP**, **Java**, **REST APIs**  
-
-### Databases:  
-- **MySQL**, **PostgreSQL**, **MongoDB**  
-
-### DevOps & Tools:  
-- **Git**, **GitHub**, **VSCode**, **ThunderClient**, **Postman**, **Docker**  
-
----
-
-## 🌍 My Coding Philosophy  
-
-I believe in writing **clean, maintainable, and well-documented code** that emphasizes readability and scalability. I’m passionate about solving complex problems with simple, elegant solutions and delivering applications that provide real value to users.  
-
-Let’s connect and build something amazing together! 🚀  
-
---- 
+* **Email:** [valentinfcarlomagno@gmail.com](mailto:valentinfcarlomagno@gmail.com)
+* **GitHub:** [@FdezCarlomagno](https://github.com/FdezCarlomagno)
