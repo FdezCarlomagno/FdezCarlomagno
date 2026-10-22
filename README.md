@@ -53,17 +53,6 @@ I love solving complex problems through solid software engineering principles, d
 
 ---
 
-## **Ask Me About**
-
-* Clean & scalable **Java backend architecture**
-* Entity modeling, SQL optimization & database design
-* React or Angular best practices with TypeScript
-* Algorithms & data structures (graphs, recursion, DP, trees, hashing…)
-* CI/CD pipelines, Git workflows & testing strategies
-* Freelancing as a developer in LATAM
-
----
-
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/carlomagno_webservices/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valentin-f-carlomagno-10683b338/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valentinfcarlomagno@gmail.com) 
 
