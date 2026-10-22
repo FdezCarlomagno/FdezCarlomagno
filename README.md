@@ -64,11 +64,6 @@ I love solving complex problems through solid software engineering principles, d
 
 ---
 
-## **Fun Fact**
-
-Outside of software development, I create small videogames, edit videos, and map cities as if they were giant graph problems.
-I also have a strangely good memory for streets and routes — probably because I visualize them like data structures 😄.
-
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/carlomagno_webservices/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valentin-f-carlomagno-10683b338/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valentinfcarlomagno@gmail.com) 
 
